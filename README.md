@@ -2,5 +2,5 @@
 Workshop Resources: Zarr for ARD and Geodatacubes – A Use case for Analyzing Forest Fires
 
 <p align="center">
-  <img src="images/fwi.jpeg" width="600">
+  <img src="fwi.jpeg" width="600">
 </p>
